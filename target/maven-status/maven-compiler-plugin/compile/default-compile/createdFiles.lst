@@ -1,0 +1,3 @@
+com\astlex\springcourse\HelloController.class
+com\astlex\springcourse\config\MyspringMVCDispatcherServlerInitialiser.class
+com\astlex\springcourse\config\SpringConfig.class
